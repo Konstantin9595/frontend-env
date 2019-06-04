@@ -1,4 +1,4 @@
-# React+Redux+Node+TypeScript environment
+# React+TypeScript environment
 
 ## Usage
 
